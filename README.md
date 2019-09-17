@@ -1,5 +1,7 @@
 # Mi Card
 
+![Alt Text](https://raw.github.com/{Sarbjyotsingh}/{mi_card_flutter}/{master}/{Output.png})
+
 ## Our Goal
 
 We're going to learn more about how to design user interfaces for Flutter apps.
