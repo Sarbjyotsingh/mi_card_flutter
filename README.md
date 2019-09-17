@@ -1,6 +1,6 @@
 # Mi Card
 
-![Alt Text](https://raw.github.com/{Sarbjyotsingh}/{mi_card_flutter}/{master}/{Output.png})
+<img src = "Output.png" width = 350 height = 700>
 
 ## Our Goal
 
